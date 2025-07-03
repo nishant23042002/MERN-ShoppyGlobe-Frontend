@@ -1,7 +1,7 @@
 GITHUB LINK :
-ShoppyGlobe-Backend -  https://github.com/nishant23042002/MERN-ShoppyGlobe-Backend.git 
+## Related Links
+- 🔗 Backend API: [GitHub Repo](https://github.com/yourusername/backend-repo)
 
-ShoppyGlobe-Frontend - https://github.com/nishant23042002/MERN-ShoppyGlobe-Frontend.git
 
 
 
