@@ -1,16 +1,14 @@
-GITHUB LINK :
-## Related Links
-- 🔗 Backend API: [GitHub Repo](https://github.com/yourusername/backend-repo)
-
-
-
 
 # 🛒 ShoppyGlobe
 
 **ShoppyGlobe** is a modern e-commerce web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It allows users to browse products, view detailed product pages, and manage their cart with real-time syncing to the backend.
 
 ---
+GITHUB LINK :
+## Related Links
+- 🔗 Backend API: [GitHub Repo](https://github.com/nishant23042002/MERN-ShoppyGlobe-Backend)
 
+---
 
 ## 🚀 Features
 
